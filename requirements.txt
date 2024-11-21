@@ -1,0 +1,8 @@
+numpy<=2
+pypdf2
+pytesseract
+pdf2image
+opencv-python
+python-docx
+beutifulsoup4
+requests
