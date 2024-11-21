@@ -7,12 +7,10 @@
 Before proceeding with the installation, ensure that you have the following prerequisites installed and configured:
 
 1. **Python 3.9**  
-   - Download from your private repository: [Python 3.9](#)  
-   (Replace `#` with your private repository link)
+   - Download from your private repository: [Python 3.9](https://cloud.w3datanet.com/index.php/s/L5cnEoW8NyHTem7)
 
 2. **Anaconda**  
-   - Download from your private repository: [Anaconda](#)  
-   (Replace `#` with your private repository link)
+   - Download from your private repository: [Anaconda](https://cloud.w3datanet.com/index.php/s/LcdNiosAeJpTCZd)  
 
 3. **Tesseract**  
    - Tesseract OCR must be installed on your system.  
@@ -37,8 +35,8 @@ Before proceeding with the installation, ensure that you have the following prer
 
 ### Step 3: Clone the Project Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/riazsomc/book-project.git
+cd book-project
 ```
 
 ### Step 4: Install Dependencies
